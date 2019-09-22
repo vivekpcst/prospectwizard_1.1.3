@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "473813979603",
+    "firebase_url": "https://prospect-wizard-8acfd.firebaseio.com",
+    "project_id": "prospect-wizard-8acfd",
+    "storage_bucket": "prospect-wizard-8acfd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473813979603:android:e2dc1ee69562bc7f",
+        "android_client_info": {
+          "package_name": "com.dzo.prospectWizard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "473813979603-f84t9svtp3lc2412d3oh89e4l2srbdmp.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "473813979603-f84t9svtp3lc2412d3oh89e4l2srbdmp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8xcuI-MPYmXvjGzFr1Q-XUsobIY-cgKY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

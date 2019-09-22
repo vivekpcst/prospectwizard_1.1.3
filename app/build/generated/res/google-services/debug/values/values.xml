@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">473813979603-f84t9svtp3lc2412d3oh89e4l2srbdmp.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://prospect-wizard-8acfd.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">473813979603</string>
+    <string name="google_api_key" translatable="false">AIzaSyA8xcuI-MPYmXvjGzFr1Q-XUsobIY-cgKY</string>
+    <string name="google_app_id" translatable="false">1:473813979603:android:e2dc1ee69562bc7f</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyA8xcuI-MPYmXvjGzFr1Q-XUsobIY-cgKY</string>
+    <string name="google_storage_bucket" translatable="false">prospect-wizard-8acfd.appspot.com</string>
+    <string name="project_id" translatable="false">prospect-wizard-8acfd</string>
+</resources>
